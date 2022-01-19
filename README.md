@@ -6,7 +6,7 @@
 
 
 
-<video src="./demo_video.mp4"></video>
+<video src="https://github.com/HuXiaozz/slider_game/blob/main/demo_video.mp4"></video>
 
 感谢杨鹏老师给的代码，完成项目主要借鉴了杨鹏老师的代码，在此基础上进行了个人加料版。
 
